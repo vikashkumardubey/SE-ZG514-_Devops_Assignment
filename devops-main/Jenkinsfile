@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Fetch Code') {
             steps {
-                git 'https://github.com/Gurudath-S/devops.git'
+                git 'https://github.com/vikashkumardubey/SE-ZG514-_Devops_Assignment.git'
             }
         }
          
